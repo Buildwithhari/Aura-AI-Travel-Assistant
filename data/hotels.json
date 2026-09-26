@@ -1,0 +1,885 @@
+{
+ "_note": "SAMPLE DATA: fictional properties with real neighbourhood names. Prices are indicative INR per room per night.",
+ "cities": {
+  "goa": {
+   "name": "Goa",
+   "airports": [
+    "GOI",
+    "GOX"
+   ],
+   "theme": "beach",
+   "hotels": [
+    {
+     "id": "goa-1",
+     "name": "Calangute Palms Resort",
+     "area": "Calangute",
+     "rating": 4.4,
+     "price_per_night": 6800,
+     "amenities": [
+      "pool",
+      "beach",
+      "breakfast",
+      "wifi",
+      "spa"
+     ],
+     "style": "resort"
+    },
+    {
+     "id": "goa-2",
+     "name": "Candolim Sands Boutique",
+     "area": "Candolim",
+     "rating": 4.2,
+     "price_per_night": 5200,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "pool",
+      "restaurant"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "goa-3",
+     "name": "Panjim Riverside Heritage",
+     "area": "Fontainhas, Panaji",
+     "rating": 4.5,
+     "price_per_night": 4600,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "heritage",
+      "restaurant"
+     ],
+     "style": "heritage"
+    },
+    {
+     "id": "goa-4",
+     "name": "Anjuna Backpackers Lodge",
+     "area": "Anjuna",
+     "rating": 3.9,
+     "price_per_night": 1800,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "parking"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "goa-5",
+     "name": "Mopa Gateway Business Hotel",
+     "area": "Pernem (near GOX)",
+     "rating": 4.1,
+     "price_per_night": 3900,
+     "amenities": [
+      "wifi",
+      "gym",
+      "shuttle",
+      "restaurant"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "goa-6",
+     "name": "Colva Family Beach Resort",
+     "area": "Colva",
+     "rating": 4.3,
+     "price_per_night": 7400,
+     "amenities": [
+      "pool",
+      "beach",
+      "kids",
+      "breakfast",
+      "wifi"
+     ],
+     "style": "resort"
+    }
+   ]
+  },
+  "jaipur": {
+   "name": "Jaipur",
+   "airports": [
+    "JAI"
+   ],
+   "theme": "fort",
+   "hotels": [
+    {
+     "id": "jaipur-1",
+     "name": "Amber View Haveli",
+     "area": "Amer Road",
+     "rating": 4.6,
+     "price_per_night": 7200,
+     "amenities": [
+      "heritage",
+      "pool",
+      "breakfast",
+      "wifi",
+      "spa"
+     ],
+     "style": "heritage"
+    },
+    {
+     "id": "jaipur-2",
+     "name": "Pink City Courtyard",
+     "area": "Bani Park",
+     "rating": 4.3,
+     "price_per_night": 3800,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "restaurant",
+      "parking"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "jaipur-3",
+     "name": "C-Scheme Business Suites",
+     "area": "C-Scheme",
+     "rating": 4.2,
+     "price_per_night": 4900,
+     "amenities": [
+      "wifi",
+      "gym",
+      "restaurant",
+      "shuttle"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "jaipur-4",
+     "name": "Hawa Mahal Budget Stay",
+     "area": "Old City",
+     "rating": 3.8,
+     "price_per_night": 1600,
+     "amenities": [
+      "wifi",
+      "rooftop"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "jaipur-5",
+     "name": "Aravalli Palace Retreat",
+     "area": "Jaisinghpura Khor",
+     "rating": 4.7,
+     "price_per_night": 14500,
+     "amenities": [
+      "pool",
+      "spa",
+      "heritage",
+      "breakfast",
+      "kids"
+     ],
+     "style": "resort"
+    }
+   ]
+  },
+  "delhi": {
+   "name": "Delhi",
+   "airports": [
+    "DEL"
+   ],
+   "theme": "city",
+   "hotels": [
+    {
+     "id": "delhi-1",
+     "name": "Aerocity Transit Hotel",
+     "area": "Aerocity",
+     "rating": 4.3,
+     "price_per_night": 6200,
+     "amenities": [
+      "wifi",
+      "gym",
+      "shuttle",
+      "restaurant",
+      "breakfast"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "delhi-2",
+     "name": "Connaught Circle Suites",
+     "area": "Connaught Place",
+     "rating": 4.4,
+     "price_per_night": 7800,
+     "amenities": [
+      "wifi",
+      "gym",
+      "restaurant",
+      "breakfast"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "delhi-3",
+     "name": "Lodhi Garden Boutique",
+     "area": "Lodhi Colony",
+     "rating": 4.5,
+     "price_per_night": 9200,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "spa",
+      "restaurant"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "delhi-4",
+     "name": "Paharganj Traveller Inn",
+     "area": "Paharganj",
+     "rating": 3.7,
+     "price_per_night": 1500,
+     "amenities": [
+      "wifi",
+      "rooftop"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "delhi-5",
+     "name": "Chanakyapuri Grand",
+     "area": "Chanakyapuri",
+     "rating": 4.7,
+     "price_per_night": 15800,
+     "amenities": [
+      "pool",
+      "spa",
+      "gym",
+      "kids",
+      "breakfast"
+     ],
+     "style": "resort"
+    }
+   ]
+  },
+  "mumbai": {
+   "name": "Mumbai",
+   "airports": [
+    "BOM",
+    "NMI"
+   ],
+   "theme": "sea",
+   "hotels": [
+    {
+     "id": "mumbai-1",
+     "name": "Marine Drive Bayview",
+     "area": "Marine Drive",
+     "rating": 4.6,
+     "price_per_night": 13200,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "rooftop",
+      "restaurant",
+      "spa"
+     ],
+     "style": "resort"
+    },
+    {
+     "id": "mumbai-2",
+     "name": "Andheri Airport Business Hotel",
+     "area": "Andheri East",
+     "rating": 4.2,
+     "price_per_night": 6400,
+     "amenities": [
+      "wifi",
+      "gym",
+      "shuttle",
+      "restaurant"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "mumbai-3",
+     "name": "Colaba Heritage Rooms",
+     "area": "Colaba",
+     "rating": 4.3,
+     "price_per_night": 7100,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "heritage"
+     ],
+     "style": "heritage"
+    },
+    {
+     "id": "mumbai-4",
+     "name": "Bandra Boutique Loft",
+     "area": "Bandra West",
+     "rating": 4.4,
+     "price_per_night": 8600,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "rooftop",
+      "gym"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "mumbai-5",
+     "name": "Navi Mumbai Creekside Inn",
+     "area": "Vashi, Navi Mumbai",
+     "rating": 4.0,
+     "price_per_night": 3900,
+     "amenities": [
+      "wifi",
+      "parking",
+      "shuttle",
+      "breakfast"
+     ],
+     "style": "budget"
+    }
+   ]
+  },
+  "bengaluru": {
+   "name": "Bengaluru",
+   "airports": [
+    "BLR"
+   ],
+   "theme": "garden",
+   "hotels": [
+    {
+     "id": "bengaluru-1",
+     "name": "Cubbon Park Residency",
+     "area": "MG Road",
+     "rating": 4.4,
+     "price_per_night": 7200,
+     "amenities": [
+      "wifi",
+      "gym",
+      "breakfast",
+      "restaurant"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "bengaluru-2",
+     "name": "Indiranagar Boutique House",
+     "area": "Indiranagar",
+     "rating": 4.5,
+     "price_per_night": 6300,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "rooftop"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "bengaluru-3",
+     "name": "Whitefield Tech Suites",
+     "area": "Whitefield",
+     "rating": 4.1,
+     "price_per_night": 5100,
+     "amenities": [
+      "wifi",
+      "gym",
+      "pool",
+      "shuttle"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "bengaluru-4",
+     "name": "Devanahalli Airport Stay",
+     "area": "Devanahalli (near BLR)",
+     "rating": 4.0,
+     "price_per_night": 3600,
+     "amenities": [
+      "wifi",
+      "shuttle",
+      "breakfast",
+      "parking"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "bengaluru-5",
+     "name": "Nandi Hills Garden Resort",
+     "area": "Nandi Hills Road",
+     "rating": 4.6,
+     "price_per_night": 9800,
+     "amenities": [
+      "pool",
+      "spa",
+      "kids",
+      "breakfast",
+      "parking"
+     ],
+     "style": "resort"
+    }
+   ]
+  },
+  "kochi": {
+   "name": "Kochi",
+   "airports": [
+    "COK"
+   ],
+   "theme": "backwater",
+   "hotels": [
+    {
+     "id": "kochi-1",
+     "name": "Fort Kochi Heritage Bungalow",
+     "area": "Fort Kochi",
+     "rating": 4.6,
+     "price_per_night": 6900,
+     "amenities": [
+      "heritage",
+      "breakfast",
+      "wifi",
+      "restaurant"
+     ],
+     "style": "heritage"
+    },
+    {
+     "id": "kochi-2",
+     "name": "Marine Drive Waterfront Hotel",
+     "area": "Marine Drive, Ernakulam",
+     "rating": 4.3,
+     "price_per_night": 5600,
+     "amenities": [
+      "wifi",
+      "gym",
+      "restaurant",
+      "rooftop"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "kochi-3",
+     "name": "Kumbalangi Backwater Retreat",
+     "area": "Kumbalangi",
+     "rating": 4.5,
+     "price_per_night": 8400,
+     "amenities": [
+      "pool",
+      "spa",
+      "breakfast",
+      "kids"
+     ],
+     "style": "resort"
+    },
+    {
+     "id": "kochi-4",
+     "name": "Jew Town Homestay",
+     "area": "Mattancherry",
+     "rating": 4.2,
+     "price_per_night": 2600,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "heritage"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "kochi-5",
+     "name": "Airport Link Suites Nedumbassery",
+     "area": "Nedumbassery (near COK)",
+     "rating": 4.0,
+     "price_per_night": 4200,
+     "amenities": [
+      "wifi",
+      "shuttle",
+      "pool",
+      "breakfast"
+     ],
+     "style": "business"
+    }
+   ]
+  },
+  "udaipur": {
+   "name": "Udaipur",
+   "airports": [
+    "UDR"
+   ],
+   "theme": "lake",
+   "hotels": [
+    {
+     "id": "udaipur-1",
+     "name": "Lake Pichola Palace View",
+     "area": "Lal Ghat",
+     "rating": 4.7,
+     "price_per_night": 12800,
+     "amenities": [
+      "heritage",
+      "rooftop",
+      "breakfast",
+      "spa",
+      "wifi"
+     ],
+     "style": "heritage"
+    },
+    {
+     "id": "udaipur-2",
+     "name": "Fateh Sagar Boutique",
+     "area": "Fateh Sagar",
+     "rating": 4.4,
+     "price_per_night": 6200,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "pool"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "udaipur-3",
+     "name": "City Palace Courtyard Inn",
+     "area": "Old City",
+     "rating": 4.2,
+     "price_per_night": 3400,
+     "amenities": [
+      "wifi",
+      "rooftop",
+      "breakfast"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "udaipur-4",
+     "name": "Aravalli Hills Resort",
+     "area": "Badi Road",
+     "rating": 4.6,
+     "price_per_night": 11500,
+     "amenities": [
+      "pool",
+      "spa",
+      "kids",
+      "breakfast",
+      "parking"
+     ],
+     "style": "resort"
+    },
+    {
+     "id": "udaipur-5",
+     "name": "Udaipur Business Residency",
+     "area": "Hiran Magri",
+     "rating": 4.0,
+     "price_per_night": 4100,
+     "amenities": [
+      "wifi",
+      "gym",
+      "restaurant",
+      "parking"
+     ],
+     "style": "business"
+    }
+   ]
+  },
+  "dubai": {
+   "name": "Dubai",
+   "airports": [
+    "DXB",
+    "DWC"
+   ],
+   "theme": "desert",
+   "hotels": [
+    {
+     "id": "dubai-1",
+     "name": "Marina Skyline Tower Hotel",
+     "area": "Dubai Marina",
+     "rating": 4.5,
+     "price_per_night": 16800,
+     "amenities": [
+      "pool",
+      "gym",
+      "wifi",
+      "breakfast",
+      "rooftop"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "dubai-2",
+     "name": "Deira Creek Boutique",
+     "area": "Deira",
+     "rating": 4.2,
+     "price_per_night": 7900,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "restaurant"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "dubai-3",
+     "name": "Jumeirah Beach Family Resort",
+     "area": "Jumeirah",
+     "rating": 4.6,
+     "price_per_night": 24500,
+     "amenities": [
+      "pool",
+      "beach",
+      "kids",
+      "spa",
+      "breakfast"
+     ],
+     "style": "resort"
+    },
+    {
+     "id": "dubai-4",
+     "name": "Al Barsha Value Inn",
+     "area": "Al Barsha",
+     "rating": 4.0,
+     "price_per_night": 6100,
+     "amenities": [
+      "wifi",
+      "pool",
+      "shuttle"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "dubai-5",
+     "name": "Old Dubai Heritage House",
+     "area": "Al Fahidi",
+     "rating": 4.4,
+     "price_per_night": 9400,
+     "amenities": [
+      "heritage",
+      "breakfast",
+      "wifi"
+     ],
+     "style": "heritage"
+    }
+   ]
+  },
+  "singapore": {
+   "name": "Singapore",
+   "airports": [
+    "SIN"
+   ],
+   "theme": "skyline",
+   "hotels": [
+    {
+     "id": "singapore-1",
+     "name": "Marina Bay Garden Hotel",
+     "area": "Marina Bay",
+     "rating": 4.6,
+     "price_per_night": 23800,
+     "amenities": [
+      "pool",
+      "rooftop",
+      "gym",
+      "wifi",
+      "spa"
+     ],
+     "style": "resort"
+    },
+    {
+     "id": "singapore-2",
+     "name": "Little India Heritage Rooms",
+     "area": "Little India",
+     "rating": 4.2,
+     "price_per_night": 9800,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "heritage"
+     ],
+     "style": "heritage"
+    },
+    {
+     "id": "singapore-3",
+     "name": "Orchard Road Business Suites",
+     "area": "Orchard",
+     "rating": 4.4,
+     "price_per_night": 16200,
+     "amenities": [
+      "wifi",
+      "gym",
+      "pool",
+      "restaurant"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "singapore-4",
+     "name": "Chinatown Capsule Stay",
+     "area": "Chinatown",
+     "rating": 3.9,
+     "price_per_night": 4200,
+     "amenities": [
+      "wifi",
+      "breakfast"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "singapore-5",
+     "name": "Sentosa Family Beach Resort",
+     "area": "Sentosa",
+     "rating": 4.5,
+     "price_per_night": 26500,
+     "amenities": [
+      "pool",
+      "beach",
+      "kids",
+      "spa",
+      "breakfast"
+     ],
+     "style": "resort"
+    }
+   ]
+  },
+  "bangkok": {
+   "name": "Bangkok",
+   "airports": [
+    "BKK",
+    "DMK"
+   ],
+   "theme": "temple",
+   "hotels": [
+    {
+     "id": "bangkok-1",
+     "name": "Chao Phraya Riverside Hotel",
+     "area": "Riverside",
+     "rating": 4.5,
+     "price_per_night": 9800,
+     "amenities": [
+      "pool",
+      "wifi",
+      "breakfast",
+      "spa"
+     ],
+     "style": "resort"
+    },
+    {
+     "id": "bangkok-2",
+     "name": "Sukhumvit Business Tower",
+     "area": "Sukhumvit",
+     "rating": 4.3,
+     "price_per_night": 6900,
+     "amenities": [
+      "wifi",
+      "gym",
+      "pool",
+      "rooftop"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "bangkok-3",
+     "name": "Old Town Boutique House",
+     "area": "Rattanakosin",
+     "rating": 4.4,
+     "price_per_night": 5400,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "heritage"
+     ],
+     "style": "boutique"
+    },
+    {
+     "id": "bangkok-4",
+     "name": "Khao San Budget Hostel",
+     "area": "Khao San Road",
+     "rating": 3.8,
+     "price_per_night": 1900,
+     "amenities": [
+      "wifi",
+      "rooftop"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "bangkok-5",
+     "name": "Siam Family Suites",
+     "area": "Pathum Wan",
+     "rating": 4.4,
+     "price_per_night": 8200,
+     "amenities": [
+      "pool",
+      "kids",
+      "wifi",
+      "breakfast"
+     ],
+     "style": "resort"
+    }
+   ]
+  },
+  "london": {
+   "name": "London",
+   "airports": [
+    "LHR",
+    "LGW"
+   ],
+   "theme": "london",
+   "hotels": [
+    {
+     "id": "london-1",
+     "name": "Thames Bank Hotel",
+     "area": "South Bank",
+     "rating": 4.4,
+     "price_per_night": 24500,
+     "amenities": [
+      "wifi",
+      "gym",
+      "restaurant",
+      "breakfast"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "london-2",
+     "name": "Kensington Garden House",
+     "area": "Kensington",
+     "rating": 4.5,
+     "price_per_night": 28900,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "heritage"
+     ],
+     "style": "heritage"
+    },
+    {
+     "id": "london-3",
+     "name": "King's Cross Compact Rooms",
+     "area": "King's Cross",
+     "rating": 4.1,
+     "price_per_night": 13800,
+     "amenities": [
+      "wifi",
+      "breakfast"
+     ],
+     "style": "budget"
+    },
+    {
+     "id": "london-4",
+     "name": "Heathrow Link Hotel",
+     "area": "Hounslow (near LHR)",
+     "rating": 4.0,
+     "price_per_night": 11900,
+     "amenities": [
+      "wifi",
+      "shuttle",
+      "gym",
+      "restaurant"
+     ],
+     "style": "business"
+    },
+    {
+     "id": "london-5",
+     "name": "Covent Garden Boutique",
+     "area": "Covent Garden",
+     "rating": 4.6,
+     "price_per_night": 32500,
+     "amenities": [
+      "wifi",
+      "breakfast",
+      "spa",
+      "rooftop"
+     ],
+     "style": "boutique"
+    }
+   ]
+  }
+ }
+}

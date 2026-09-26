@@ -1,0 +1,1082 @@
+{
+ "_note": "SAMPLE CONTENT: curated demo itineraries. No live opening hours, prices or availability.",
+ "plans": {
+  "kerala": {
+   "name": {
+    "en": "Kerala",
+    "kn": "ಕೇರಳ",
+    "hi": "केरल"
+   },
+   "kind": "domestic",
+   "match": [
+    "kerala",
+    "munnar",
+    "alleppey",
+    "alappuzha",
+    "thekkady",
+    "backwaters",
+    "ಕೇರಳ",
+    "केरल"
+   ],
+   "airports": [
+    "COK",
+    "TRV"
+   ],
+   "states": [
+    "Kerala"
+   ],
+   "summary": {
+    "en": "Hills, spice country and backwaters",
+    "kn": "ಬೆಟ್ಟಗಳು, ಮಸಾಲೆ ತೋಟಗಳು ಮತ್ತು ಹಿನ್ನೀರು",
+    "hi": "पहाड़, मसाला बागान और बैकवॉटर"
+   },
+   "stops": [
+    {
+     "name": {
+      "en": "Kochi",
+      "kn": "ಕೊಚ್ಚಿ",
+      "hi": "कोच्चि"
+     },
+     "lat": 9.97,
+     "lon": 76.28
+    },
+    {
+     "name": {
+      "en": "Munnar",
+      "kn": "ಮುನ್ನಾರ್",
+      "hi": "मुन्नार"
+     },
+     "lat": 10.09,
+     "lon": 77.06
+    },
+    {
+     "name": {
+      "en": "Thekkady",
+      "kn": "ತೇಕ್ಕಡಿ",
+      "hi": "थेक्कडी"
+     },
+     "lat": 9.6,
+     "lon": 77.16
+    },
+    {
+     "name": {
+      "en": "Alleppey",
+      "kn": "ಆಲಪ್ಪುಳ",
+      "hi": "अलेप्पी"
+     },
+     "lat": 9.5,
+     "lon": 76.34
+    }
+   ],
+   "min_days": 4,
+   "max_days": 6,
+   "base_days": 5,
+   "daily_pp": {
+    "budget": 2800,
+    "standard": 5500,
+    "luxury": 13000
+   },
+   "days": [
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Arrive in Kochi",
+      "kn": "ಕೊಚ್ಚಿಗೆ ಆಗಮನ",
+      "hi": "कोच्चि पहुँचें"
+     },
+     "core": [
+      {
+       "en": "Fort Kochi walk: Chinese fishing nets and St. Francis Church",
+       "kn": "ಫೋರ್ಟ್ ಕೊಚ್ಚಿ ನಡಿಗೆ: ಚೀನೀ ಮೀನುಗಾರಿಕೆ ಬಲೆಗಳು ಮತ್ತು ಸೇಂಟ್ ಫ್ರಾನ್ಸಿಸ್ ಚರ್ಚ್",
+       "hi": "फोर्ट कोच्चि की सैर: चीनी मछली जाल और सेंट फ्रांसिस चर्च"
+      },
+      {
+       "en": "Mattancherry Palace and Jew Town",
+       "kn": "ಮಟ್ಟಾಂಚೇರಿ ಅರಮನೆ ಮತ್ತು ಜ್ಯೂ ಟೌನ್",
+       "hi": "मट्टनचेरी पैलेस और ज्यू टाउन"
+      }
+     ],
+     "options": {
+      "culture": {
+       "en": "Evening Kathakali performance",
+       "kn": "ಸಂಜೆ ಕಥಕ್ಕಳಿ ಪ್ರದರ್ಶನ",
+       "hi": "शाम को कथकली प्रदर्शन"
+      },
+      "family": {
+       "en": "Sunset harbour ferry ride",
+       "kn": "ಸೂರ್ಯಾಸ್ತದ ಬಂದರು ದೋಣಿ ಸವಾರಿ",
+       "hi": "सूर्यास्त के समय बंदरगाह फेरी"
+      },
+      "luxury": {
+       "en": "Dinner at a heritage hotel in Fort Kochi",
+       "kn": "ಫೋರ್ಟ್ ಕೊಚ್ಚಿಯ ಪಾರಂಪರಿಕ ಹೋಟೆಲ್‌ನಲ್ಲಿ ಊಟ",
+       "hi": "फोर्ट कोच्चि के हेरिटेज होटल में डिनर"
+      }
+     }
+    },
+    {
+     "stop": 1,
+     "priority": 1,
+     "title": {
+      "en": "Drive to Munnar (about 4 hours)",
+      "kn": "ಮುನ್ನಾರ್‌ಗೆ ಪ್ರಯಾಣ (ಸುಮಾರು 4 ಗಂಟೆ)",
+      "hi": "मुन्नार की ड्राइव (लगभग 4 घंटे)"
+     },
+     "core": [
+      {
+       "en": "Tea plantation visit",
+       "kn": "ಚಹಾ ತೋಟಕ್ಕೆ ಭೇಟಿ",
+       "hi": "चाय बागान की सैर"
+      },
+      {
+       "en": "Tea museum",
+       "kn": "ಚಹಾ ವಸ್ತುಸಂಗ್ರಹಾಲಯ",
+       "hi": "चाय संग्रहालय"
+      }
+     ],
+     "options": {
+      "adventure": {
+       "en": "Sunrise trek in the tea hills",
+       "kn": "ಚಹಾ ಬೆಟ್ಟಗಳಲ್ಲಿ ಸೂರ್ಯೋದಯ ಚಾರಣ",
+       "hi": "चाय की पहाड़ियों में सूर्योदय ट्रेक"
+      },
+      "family": {
+       "en": "Eravikulam National Park (Nilgiri tahr)",
+       "kn": "ಎರವಿಕುಳಂ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ (ನೀಲಗಿರಿ ತಾರ್)",
+       "hi": "एराविकुलम राष्ट्रीय उद्यान (नीलगिरि तहर)"
+      }
+     }
+    },
+    {
+     "stop": 1,
+     "priority": 3,
+     "title": {
+      "en": "Munnar hills",
+      "kn": "ಮುನ್ನಾರ್ ಬೆಟ್ಟಗಳು",
+      "hi": "मुन्नार की पहाड़ियाँ"
+     },
+     "core": [
+      {
+       "en": "Mattupetty Dam and Echo Point",
+       "kn": "ಮಟ್ಟುಪೆಟ್ಟಿ ಅಣೆಕಟ್ಟು ಮತ್ತು ಎಕೋ ಪಾಯಿಂಟ್",
+       "hi": "मट्टुपेट्टी बाँध और इको पॉइंट"
+      },
+      {
+       "en": "Spice garden walk",
+       "kn": "ಮಸಾಲೆ ತೋಟದ ನಡಿಗೆ",
+       "hi": "मसाला बगीचे की सैर"
+      }
+     ],
+     "options": {
+      "adventure": {
+       "en": "Jeep safari to Top Station",
+       "kn": "ಟಾಪ್ ಸ್ಟೇಷನ್‌ಗೆ ಜೀಪ್ ಸಫಾರಿ",
+       "hi": "टॉप स्टेशन तक जीप सफ़ारी"
+      },
+      "family": {
+       "en": "Boating at Kundala Lake",
+       "kn": "ಕುಂಡಳ ಸರೋವರದಲ್ಲಿ ದೋಣಿ ವಿಹಾರ",
+       "hi": "कुंडला झील में नौका विहार"
+      }
+     }
+    },
+    {
+     "stop": 2,
+     "priority": 2,
+     "title": {
+      "en": "Thekkady and Periyar",
+      "kn": "ತೇಕ್ಕಡಿ ಮತ್ತು ಪೆರಿಯಾರ್",
+      "hi": "थेक्कडी और पेरियार"
+     },
+     "core": [
+      {
+       "en": "Periyar lake boat ride",
+       "kn": "ಪೆರಿಯಾರ್ ಸರೋವರ ದೋಣಿ ಸವಾರಿ",
+       "hi": "पेरियार झील में नाव की सवारी"
+      },
+      {
+       "en": "Spice plantation tour",
+       "kn": "ಮಸಾಲೆ ತೋಟದ ಪ್ರವಾಸ",
+       "hi": "मसाला बागान का दौरा"
+      }
+     ],
+     "options": {
+      "adventure": {
+       "en": "Bamboo rafting with forest guides",
+       "kn": "ಅರಣ್ಯ ಮಾರ್ಗದರ್ಶಕರೊಂದಿಗೆ ಬಿದಿರು ರಾಫ್ಟಿಂಗ್",
+       "hi": "वन गाइड के साथ बांस राफ्टिंग"
+      },
+      "culture": {
+       "en": "Kalaripayattu martial arts show",
+       "kn": "ಕಳರಿಪಯಟ್ಟು ಸಮರಕಲೆ ಪ್ರದರ್ಶನ",
+       "hi": "कलारीपयट्टू युद्ध कला प्रदर्शन"
+      },
+      "family": {
+       "en": "Guided nature walk",
+       "kn": "ಮಾರ್ಗದರ್ಶಿತ ಪ್ರಕೃತಿ ನಡಿಗೆ",
+       "hi": "गाइड के साथ प्रकृति सैर"
+      }
+     }
+    },
+    {
+     "stop": 3,
+     "priority": 1,
+     "title": {
+      "en": "Alleppey backwaters",
+      "kn": "ಆಲಪ್ಪುಳ ಹಿನ್ನೀರು",
+      "hi": "अलेप्पी बैकवॉटर"
+     },
+     "core": [
+      {
+       "en": "Houseboat cruise on the backwaters",
+       "kn": "ಹಿನ್ನೀರಿನಲ್ಲಿ ಹೌಸ್‌ಬೋಟ್ ವಿಹಾರ",
+       "hi": "बैकवॉटर में हाउसबोट क्रूज़"
+      },
+      {
+       "en": "Village canal walk",
+       "kn": "ಹಳ್ಳಿಯ ಕಾಲುವೆ ದಂಡೆಯ ನಡಿಗೆ",
+       "hi": "गाँव की नहर किनारे सैर"
+      }
+     ],
+     "options": {
+      "family": {
+       "en": "Evening at Marari beach",
+       "kn": "ಮರಾರಿ ಕಡಲತೀರದಲ್ಲಿ ಸಂಜೆ",
+       "hi": "मरारी बीच पर शाम"
+      },
+      "culture": {
+       "en": "Coir-making village visit",
+       "kn": "ತೆಂಗಿನ ನಾರಿನ ಹಳ್ಳಿಗೆ ಭೇಟಿ",
+       "hi": "नारियल रेशा (कॉयर) गाँव की सैर"
+      },
+      "luxury": {
+       "en": "Private premium houseboat",
+       "kn": "ಖಾಸಗಿ ಪ್ರೀಮಿಯಂ ಹೌಸ್‌ಬೋಟ್",
+       "hi": "निजी प्रीमियम हाउसबोट"
+      }
+     }
+    },
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Back to Kochi and depart",
+      "kn": "ಕೊಚ್ಚಿಗೆ ಹಿಂತಿರುಗಿ ಹೊರಡಿ",
+      "hi": "कोच्चि लौटें और प्रस्थान"
+     },
+     "core": [
+      {
+       "en": "Spice and handicraft shopping in Ernakulam",
+       "kn": "ಎರ್ನಾಕುಲಂನಲ್ಲಿ ಮಸಾಲೆ ಮತ್ತು ಕರಕುಶಲ ಖರೀದಿ",
+       "hi": "एर्नाकुलम में मसाले और हस्तशिल्प की खरीदारी"
+      },
+      {
+       "en": "Transfer to Kochi airport (about 2 hours)",
+       "kn": "ಕೊಚ್ಚಿ ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಪ್ರಯಾಣ (ಸುಮಾರು 2 ಗಂಟೆ)",
+       "hi": "कोच्चि हवाई अड्डे के लिए प्रस्थान (लगभग 2 घंटे)"
+      }
+     ],
+     "options": {}
+    }
+   ]
+  },
+  "rajasthan": {
+   "name": {
+    "en": "Rajasthan",
+    "kn": "ರಾಜಸ್ಥಾನ",
+    "hi": "राजस्थान"
+   },
+   "kind": "domestic",
+   "match": [
+    "rajasthan",
+    "jodhpur",
+    "udaipur",
+    "jaipur",
+    "ರಾಜಸ್ಥಾನ",
+    "राजस्थान",
+    "ಜೈಪುರ",
+    "जयपुर",
+    "ಉದಯಪುರ",
+    "उदयपुर"
+   ],
+   "airports": [
+    "JAI",
+    "JDH",
+    "UDR"
+   ],
+   "states": [
+    "Rajasthan"
+   ],
+   "summary": {
+    "en": "Forts, palaces and lakes",
+    "kn": "ಕೋಟೆಗಳು, ಅರಮನೆಗಳು ಮತ್ತು ಸರೋವರಗಳು",
+    "hi": "किले, महल और झीलें"
+   },
+   "stops": [
+    {
+     "name": {
+      "en": "Jaipur",
+      "kn": "ಜೈಪುರ",
+      "hi": "जयपुर"
+     },
+     "lat": 26.91,
+     "lon": 75.79
+    },
+    {
+     "name": {
+      "en": "Jodhpur",
+      "kn": "ಜೋಧಪುರ",
+      "hi": "जोधपुर"
+     },
+     "lat": 26.24,
+     "lon": 73.02
+    },
+    {
+     "name": {
+      "en": "Ranakpur",
+      "kn": "ರಣಕ್ಪುರ",
+      "hi": "रणकपुर"
+     },
+     "lat": 25.12,
+     "lon": 73.47
+    },
+    {
+     "name": {
+      "en": "Udaipur",
+      "kn": "ಉದಯಪುರ",
+      "hi": "उदयपुर"
+     },
+     "lat": 24.58,
+     "lon": 73.71
+    }
+   ],
+   "min_days": 4,
+   "max_days": 6,
+   "base_days": 5,
+   "daily_pp": {
+    "budget": 3000,
+    "standard": 6000,
+    "luxury": 15000
+   },
+   "days": [
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Arrive in Jaipur",
+      "kn": "ಜೈಪುರಕ್ಕೆ ಆಗಮನ",
+      "hi": "जयपुर पहुँचें"
+     },
+     "core": [
+      {
+       "en": "Hawa Mahal and City Palace",
+       "kn": "ಹವಾ ಮಹಲ್ ಮತ್ತು ಸಿಟಿ ಪ್ಯಾಲೇಸ್",
+       "hi": "हवा महल और सिटी पैलेस"
+      },
+      {
+       "en": "Evening at Johari Bazaar",
+       "kn": "ಜೋಹರಿ ಬಜಾರ್‌ನಲ್ಲಿ ಸಂಜೆ",
+       "hi": "जौहरी बाज़ार में शाम"
+      }
+     ],
+     "options": {
+      "culture": {
+       "en": "Jantar Mantar observatory",
+       "kn": "ಜಂತರ್ ಮಂತರ್ ವೀಕ್ಷಣಾಲಯ",
+       "hi": "जंतर मंतर वेधशाला"
+      },
+      "family": {
+       "en": "Rajasthani village-style dinner",
+       "kn": "ರಾಜಸ್ಥಾನಿ ಹಳ್ಳಿ ಶೈಲಿಯ ಊಟ",
+       "hi": "राजस्थानी गाँव-शैली का डिनर"
+      },
+      "luxury": {
+       "en": "Dinner in a palace hotel",
+       "kn": "ಅರಮನೆ ಹೋಟೆಲ್‌ನಲ್ಲಿ ಊಟ",
+       "hi": "पैलेस होटल में डिनर"
+      }
+     }
+    },
+    {
+     "stop": 0,
+     "priority": 3,
+     "title": {
+      "en": "Amer and the forts",
+      "kn": "ಆಮೇರ್ ಮತ್ತು ಕೋಟೆಗಳು",
+      "hi": "आमेर और किले"
+     },
+     "core": [
+      {
+       "en": "Amer Fort",
+       "kn": "ಆಮೇರ್ ಕೋಟೆ",
+       "hi": "आमेर किला"
+      },
+      {
+       "en": "Jal Mahal photo stop",
+       "kn": "ಜಲ ಮಹಲ್ ಫೋಟೋ ನಿಲ್ದಾಣ",
+       "hi": "जल महल फोटो स्टॉप"
+      }
+     ],
+     "options": {
+      "adventure": {
+       "en": "Hot-air balloon ride (seasonal)",
+       "kn": "ಹಾಟ್-ಏರ್ ಬಲೂನ್ ಸವಾರಿ (ಋತುಮಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ)",
+       "hi": "हॉट-एयर बैलून राइड (मौसमी)"
+      },
+      "culture": {
+       "en": "Nahargarh Fort at sunset",
+       "kn": "ಸೂರ್ಯಾಸ್ತದಲ್ಲಿ ನಹರ್‌ಗಢ ಕೋಟೆ",
+       "hi": "सूर्यास्त पर नाहरगढ़ किला"
+      },
+      "family": {
+       "en": "Amer Fort light and sound show",
+       "kn": "ಆಮೇರ್ ಕೋಟೆ ಬೆಳಕು-ಧ್ವನಿ ಪ್ರದರ್ಶನ",
+       "hi": "आमेर किला लाइट एंड साउंड शो"
+      }
+     }
+    },
+    {
+     "stop": 1,
+     "priority": 1,
+     "title": {
+      "en": "To Jodhpur (about 5.5 hours)",
+      "kn": "ಜೋಧಪುರಕ್ಕೆ (ಸುಮಾರು 5.5 ಗಂಟೆ)",
+      "hi": "जोधपुर की ओर (लगभग 5.5 घंटे)"
+     },
+     "core": [
+      {
+       "en": "Mehrangarh Fort",
+       "kn": "ಮೆಹ್ರಾನ್‌ಗಢ ಕೋಟೆ",
+       "hi": "मेहरानगढ़ किला"
+      },
+      {
+       "en": "Clock Tower market",
+       "kn": "ಕ್ಲಾಕ್ ಟವರ್ ಮಾರುಕಟ್ಟೆ",
+       "hi": "क्लॉक टावर बाज़ार"
+      }
+     ],
+     "options": {
+      "adventure": {
+       "en": "Zipline tour at Mehrangarh",
+       "kn": "ಮೆಹ್ರಾನ್‌ಗಢದಲ್ಲಿ ಜಿಪ್‌ಲೈನ್",
+       "hi": "मेहरानगढ़ में ज़िपलाइन"
+      },
+      "culture": {
+       "en": "Jaswant Thada memorial",
+       "kn": "ಜಸ್ವಂತ್ ಥಡಾ ಸ್ಮಾರಕ",
+       "hi": "जसवंत थड़ा स्मारक"
+      }
+     }
+    },
+    {
+     "stop": 2,
+     "priority": 1,
+     "title": {
+      "en": "Via Ranakpur to Udaipur",
+      "kn": "ರಣಕ್ಪುರ ಮಾರ್ಗವಾಗಿ ಉದಯಪುರಕ್ಕೆ",
+      "hi": "रणकपुर होते हुए उदयपुर"
+     },
+     "core": [
+      {
+       "en": "Ranakpur Jain temple",
+       "kn": "ರಣಕ್ಪುರ ಜೈನ ದೇವಾಲಯ",
+       "hi": "रणकपुर जैन मंदिर"
+      },
+      {
+       "en": "Lakeside evening in Udaipur",
+       "kn": "ಉದಯಪುರದಲ್ಲಿ ಸರೋವರದ ದಡದ ಸಂಜೆ",
+       "hi": "उदयपुर में झील किनारे शाम"
+      }
+     ],
+     "options": {
+      "family": {
+       "en": "Picnic stop in the Aravalli hills",
+       "kn": "ಅರಾವಳಿ ಬೆಟ್ಟಗಳಲ್ಲಿ ಪಿಕ್ನಿಕ್",
+       "hi": "अरावली पहाड़ियों में पिकनिक"
+      }
+     }
+    },
+    {
+     "stop": 3,
+     "priority": 1,
+     "title": {
+      "en": "Udaipur lakes",
+      "kn": "ಉದಯಪುರದ ಸರೋವರಗಳು",
+      "hi": "उदयपुर की झीलें"
+     },
+     "core": [
+      {
+       "en": "City Palace",
+       "kn": "ಸಿಟಿ ಪ್ಯಾಲೇಸ್",
+       "hi": "सिटी पैलेस"
+      },
+      {
+       "en": "Lake Pichola boat ride",
+       "kn": "ಪಿಚೋಲಾ ಸರೋವರ ದೋಣಿ ಸವಾರಿ",
+       "hi": "पिछोला झील में नाव की सवारी"
+      }
+     ],
+     "options": {
+      "culture": {
+       "en": "Bagore ki Haveli folk dance show",
+       "kn": "ಬಾಗೋರ್ ಕಿ ಹವೇಲಿ ಜಾನಪದ ನೃತ್ಯ",
+       "hi": "बागोर की हवेली लोक नृत्य"
+      },
+      "family": {
+       "en": "Saheliyon ki Bari gardens",
+       "kn": "ಸಹೇಲಿಯೋಂ ಕಿ ಬಾರಿ ಉದ್ಯಾನ",
+       "hi": "सहेलियों की बाड़ी उद्यान"
+      },
+      "adventure": {
+       "en": "Cycling tour around Fateh Sagar",
+       "kn": "ಫತೇ ಸಾಗರ್ ಸುತ್ತ ಸೈಕಲ್ ಪ್ರವಾಸ",
+       "hi": "फतेह सागर के चारों ओर साइकिल टूर"
+      },
+      "luxury": {
+       "en": "Sunset dinner on a lake palace terrace",
+       "kn": "ಸರೋವರ ಅರಮನೆಯ ತಾರಸಿಯಲ್ಲಿ ಸೂರ್ಯಾಸ್ತದ ಊಟ",
+       "hi": "झील महल की छत पर सूर्यास्त डिनर"
+      }
+     }
+    },
+    {
+     "stop": 3,
+     "priority": 2,
+     "title": {
+      "en": "Udaipur and depart",
+      "kn": "ಉದಯಪುರ ಮತ್ತು ನಿರ್ಗಮನ",
+      "hi": "उदयपुर और प्रस्थान"
+     },
+     "core": [
+      {
+       "en": "Morning at Fateh Sagar lake",
+       "kn": "ಫತೇ ಸಾಗರ್ ಸರೋವರದಲ್ಲಿ ಬೆಳಿಗ್ಗೆ",
+       "hi": "फतेह सागर झील पर सुबह"
+      },
+      {
+       "en": "Transfer to Udaipur airport",
+       "kn": "ಉದಯಪುರ ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಪ್ರಯಾಣ",
+       "hi": "उदयपुर हवाई अड्डे के लिए प्रस्थान"
+      }
+     ],
+     "options": {}
+    }
+   ]
+  },
+  "dubai": {
+   "name": {
+    "en": "Dubai",
+    "kn": "ದುಬೈ",
+    "hi": "दुबई"
+   },
+   "kind": "international",
+   "match": [
+    "dubai",
+    "uae",
+    "abu dhabi",
+    "ದುಬೈ",
+    "दुबई"
+   ],
+   "airports": [
+    "DXB",
+    "DWC",
+    "AUH"
+   ],
+   "states": [],
+   "summary": {
+    "en": "Skyline, souks, desert and an Abu Dhabi day trip",
+    "kn": "ಗಗನಚುಂಬಿಗಳು, ಸೂಕ್‌ಗಳು, ಮರುಭೂಮಿ ಮತ್ತು ಅಬುಧಾಬಿ ದಿನದ ಪ್ರವಾಸ",
+    "hi": "गगनचुंबी इमारतें, सूक, रेगिस्तान और अबू धाबी डे ट्रिप"
+   },
+   "stops": [
+    {
+     "name": {
+      "en": "Dubai",
+      "kn": "ದುಬೈ",
+      "hi": "दुबई"
+     },
+     "lat": 25.2,
+     "lon": 55.27
+    },
+    {
+     "name": {
+      "en": "Desert camp",
+      "kn": "ಮರುಭೂಮಿ ಶಿಬಿರ",
+      "hi": "रेगिस्तान कैंप"
+     },
+     "lat": 24.95,
+     "lon": 55.6
+    },
+    {
+     "name": {
+      "en": "Abu Dhabi",
+      "kn": "ಅಬುಧಾಬಿ",
+      "hi": "अबू धाबी"
+     },
+     "lat": 24.45,
+     "lon": 54.38
+    }
+   ],
+   "min_days": 4,
+   "max_days": 6,
+   "base_days": 5,
+   "daily_pp": {
+    "budget": 7500,
+    "standard": 14000,
+    "luxury": 32000
+   },
+   "days": [
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Arrive in Dubai",
+      "kn": "ದುಬೈಗೆ ಆಗಮನ",
+      "hi": "दुबई पहुँचें"
+     },
+     "core": [
+      {
+       "en": "Check in and rest",
+       "kn": "ಚೆಕ್-ಇನ್ ಮತ್ತು ವಿಶ್ರಾಂತಿ",
+       "hi": "चेक-इन और आराम"
+      },
+      {
+       "en": "Dubai Fountain show in Downtown",
+       "kn": "ಡೌನ್‌ಟೌನ್‌ನಲ್ಲಿ ದುಬೈ ಕಾರಂಜಿ ಪ್ರದರ್ಶನ",
+       "hi": "डाउनटाउन में दुबई फव्वारा शो"
+      }
+     ],
+     "options": {
+      "family": {
+       "en": "Dubai Aquarium",
+       "kn": "ದುಬೈ ಅಕ್ವೇರಿಯಂ",
+       "hi": "दुबई एक्वेरियम"
+      },
+      "luxury": {
+       "en": "Dinner cruise at Dubai Marina",
+       "kn": "ದುಬೈ ಮರೀನಾದಲ್ಲಿ ಡಿನ್ನರ್ ಕ್ರೂಸ್",
+       "hi": "दुबई मरीना पर डिनर क्रूज़"
+      }
+     }
+    },
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Modern Dubai",
+      "kn": "ಆಧುನಿಕ ದುಬೈ",
+      "hi": "आधुनिक दुबई"
+     },
+     "core": [
+      {
+       "en": "Burj Khalifa observation deck (book ahead)",
+       "kn": "ಬುರ್ಜ್ ಖಲೀಫಾ ವೀಕ್ಷಣಾ ಡೆಕ್ (ಮುಂಚಿತವಾಗಿ ಬುಕ್ ಮಾಡಿ)",
+       "hi": "बुर्ज ख़लीफ़ा ऑब्ज़र्वेशन डेक (पहले से बुक करें)"
+      },
+      {
+       "en": "Palm Jumeirah and the Marina",
+       "kn": "ಪಾಮ್ ಜುಮೈರಾ ಮತ್ತು ಮರೀನಾ",
+       "hi": "पाम जुमेराह और मरीना"
+      }
+     ],
+     "options": {
+      "culture": {
+       "en": "Dubai Frame",
+       "kn": "ದುಬೈ ಫ್ರೇಮ್",
+       "hi": "दुबई फ्रेम"
+      },
+      "adventure": {
+       "en": "Tandem skydive over the Palm (advance booking)",
+       "kn": "ಪಾಮ್ ಮೇಲೆ ಟ್ಯಾಂಡೆಮ್ ಸ್ಕೈಡೈವ್ (ಮುಂಗಡ ಬುಕಿಂಗ್)",
+       "hi": "पाम के ऊपर टैंडम स्काईडाइव (अग्रिम बुकिंग)"
+      },
+      "family": {
+       "en": "Indoor theme park afternoon",
+       "kn": "ಒಳಾಂಗಣ ಥೀಮ್ ಪಾರ್ಕ್‌ನಲ್ಲಿ ಮಧ್ಯಾಹ್ನ",
+       "hi": "इनडोर थीम पार्क में दोपहर"
+      }
+     }
+    },
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Old Dubai",
+      "kn": "ಹಳೆಯ ದುಬೈ",
+      "hi": "पुराना दुबई"
+     },
+     "core": [
+      {
+       "en": "Al Fahidi historic district",
+       "kn": "ಅಲ್ ಫಹೀದಿ ಐತಿಹಾಸಿಕ ಪ್ರದೇಶ",
+       "hi": "अल फ़हीदी ऐतिहासिक इलाका"
+      },
+      {
+       "en": "Abra ride across the Creek to the gold and spice souks",
+       "kn": "ಖಾಡಿ ದಾಟಿ ಅಬ್ರಾ ದೋಣಿಯಲ್ಲಿ ಚಿನ್ನ ಮತ್ತು ಮಸಾಲೆ ಸೂಕ್‌ಗಳಿಗೆ",
+       "hi": "अब्रा नाव से क्रीक पार कर सोना और मसाला सूक"
+      }
+     ],
+     "options": {
+      "culture": {
+       "en": "Museum of the Future (book ahead)",
+       "kn": "ಮ್ಯೂಸಿಯಂ ಆಫ್ ದಿ ಫ್ಯೂಚರ್ (ಮುಂಚಿತವಾಗಿ ಬುಕ್ ಮಾಡಿ)",
+       "hi": "म्यूज़ियम ऑफ़ द फ्यूचर (पहले से बुक करें)"
+      }
+     }
+    },
+    {
+     "stop": 1,
+     "priority": 2,
+     "title": {
+      "en": "Desert evening",
+      "kn": "ಮರುಭೂಮಿಯ ಸಂಜೆ",
+      "hi": "रेगिस्तान की शाम"
+     },
+     "core": [
+      {
+       "en": "Afternoon desert safari with dinner",
+       "kn": "ಊಟ ಸಹಿತ ಮಧ್ಯಾಹ್ನದ ಮರುಭೂಮಿ ಸಫಾರಿ",
+       "hi": "डिनर के साथ दोपहर की डेज़र्ट सफ़ारी"
+      },
+      {
+       "en": "Sunset over the dunes",
+       "kn": "ಮರಳುದಿಬ್ಬಗಳ ಮೇಲೆ ಸೂರ್ಯಾಸ್ತ",
+       "hi": "टीलों पर सूर्यास्त"
+      }
+     ],
+     "options": {
+      "adventure": {
+       "en": "Dune bashing and sandboarding",
+       "kn": "ಡ್ಯೂನ್ ಬ್ಯಾಶಿಂಗ್ ಮತ್ತು ಸ್ಯಾಂಡ್‌ಬೋರ್ಡಿಂಗ್",
+       "hi": "ड्यून बैशिंग और सैंडबोर्डिंग"
+      },
+      "family": {
+       "en": "Camel ride and henna",
+       "kn": "ಒಂಟೆ ಸವಾರಿ ಮತ್ತು ಮೆಹಂದಿ",
+       "hi": "ऊँट की सवारी और मेहंदी"
+      },
+      "luxury": {
+       "en": "Private desert camp dinner",
+       "kn": "ಖಾಸಗಿ ಮರುಭೂಮಿ ಶಿಬಿರದಲ್ಲಿ ಊಟ",
+       "hi": "निजी डेज़र्ट कैंप में डिनर"
+      }
+     }
+    },
+    {
+     "stop": 2,
+     "priority": 3,
+     "title": {
+      "en": "Abu Dhabi day trip",
+      "kn": "ಅಬುಧಾಬಿ ದಿನದ ಪ್ರವಾಸ",
+      "hi": "अबू धाबी डे ट्रिप"
+     },
+     "core": [
+      {
+       "en": "Sheikh Zayed Grand Mosque",
+       "kn": "ಶೇಖ್ ಜಾಯೆದ್ ಗ್ರ್ಯಾಂಡ್ ಮಸೀದಿ",
+       "hi": "शेख़ ज़ायद ग्रैंड मस्जिद"
+      },
+      {
+       "en": "Louvre Abu Dhabi",
+       "kn": "ಲೂವ್ರ್ ಅಬುಧಾಬಿ",
+       "hi": "लूव्र अबू धाबी"
+      }
+     ],
+     "options": {
+      "family": {
+       "en": "Yas Island theme parks",
+       "kn": "ಯಾಸ್ ದ್ವೀಪದ ಥೀಮ್ ಪಾರ್ಕ್‌ಗಳು",
+       "hi": "यास द्वीप के थीम पार्क"
+      }
+     }
+    },
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Beach morning and depart",
+      "kn": "ಕಡಲತೀರದ ಬೆಳಿಗ್ಗೆ ಮತ್ತು ನಿರ್ಗಮನ",
+      "hi": "बीच पर सुबह और प्रस्थान"
+     },
+     "core": [
+      {
+       "en": "Jumeirah public beach",
+       "kn": "ಜುಮೈರಾ ಸಾರ್ವಜನಿಕ ಕಡಲತೀರ",
+       "hi": "जुमेराह पब्लिक बीच"
+      },
+      {
+       "en": "Transfer to Dubai airport",
+       "kn": "ದುಬೈ ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಪ್ರಯಾಣ",
+       "hi": "दुबई हवाई अड्डे के लिए प्रस्थान"
+      }
+     ],
+     "options": {}
+    }
+   ]
+  },
+  "singapore": {
+   "name": {
+    "en": "Singapore",
+    "kn": "ಸಿಂಗಾಪುರ",
+    "hi": "सिंगापुर"
+   },
+   "kind": "international",
+   "match": [
+    "singapore",
+    "sentosa",
+    "ಸಿಂಗಾಪುರ",
+    "सिंगापुर"
+   ],
+   "airports": [
+    "SIN"
+   ],
+   "states": [],
+   "summary": {
+    "en": "Gardens, culture trails, Sentosa and hawker food",
+    "kn": "ಉದ್ಯಾನಗಳು, ಸಾಂಸ್ಕೃತಿಕ ನಡಿಗೆ, ಸೆಂಟೋಸಾ ಮತ್ತು ಹಾಕರ್ ಆಹಾರ",
+    "hi": "बगीचे, सांस्कृतिक सैर, सेंटोसा और हॉकर फ़ूड"
+   },
+   "stops": [
+    {
+     "name": {
+      "en": "Marina Bay",
+      "kn": "ಮರೀನಾ ಬೇ",
+      "hi": "मरीना बे"
+     },
+     "lat": 1.283,
+     "lon": 103.86
+    },
+    {
+     "name": {
+      "en": "Chinatown and Little India",
+      "kn": "ಚೈನಾಟೌನ್ ಮತ್ತು ಲಿಟಲ್ ಇಂಡಿಯಾ",
+      "hi": "चाइनाटाउन और लिटिल इंडिया"
+     },
+     "lat": 1.29,
+     "lon": 103.848
+    },
+    {
+     "name": {
+      "en": "Sentosa",
+      "kn": "ಸೆಂಟೋಸಾ",
+      "hi": "सेंटोसा"
+     },
+     "lat": 1.249,
+     "lon": 103.83
+    },
+    {
+     "name": {
+      "en": "Mandai and Botanic Gardens",
+      "kn": "ಮಂಡಾಯ್ ಮತ್ತು ಬೊಟಾನಿಕ್ ಗಾರ್ಡನ್ಸ್",
+      "hi": "मंडाई और बॉटनिक गार्डन्स"
+     },
+     "lat": 1.404,
+     "lon": 103.79
+    },
+    {
+     "name": {
+      "en": "Changi",
+      "kn": "ಚಾಂಗಿ",
+      "hi": "चांगी"
+     },
+     "lat": 1.36,
+     "lon": 103.989
+    }
+   ],
+   "min_days": 3,
+   "max_days": 6,
+   "base_days": 5,
+   "daily_pp": {
+    "budget": 8000,
+    "standard": 15000,
+    "luxury": 34000
+   },
+   "days": [
+    {
+     "stop": 0,
+     "priority": 1,
+     "title": {
+      "en": "Arrive and Marina Bay",
+      "kn": "ಆಗಮನ ಮತ್ತು ಮರೀನಾ ಬೇ",
+      "hi": "आगमन और मरीना बे"
+     },
+     "core": [
+      {
+       "en": "Marina Bay waterfront walk",
+       "kn": "ಮರೀನಾ ಬೇ ಜಲತೀರದ ನಡಿಗೆ",
+       "hi": "मरीना बे वॉटरफ़्रंट सैर"
+      },
+      {
+       "en": "Gardens by the Bay light show",
+       "kn": "ಗಾರ್ಡನ್ಸ್ ಬೈ ದಿ ಬೇ ಬೆಳಕಿನ ಪ್ರದರ್ಶನ",
+       "hi": "गार्डन्स बाय द बे लाइट शो"
+      }
+     ],
+     "options": {
+      "family": {
+       "en": "Merlion Park",
+       "kn": "ಮರ್ಲಯನ್ ಪಾರ್ಕ್",
+       "hi": "मरलायन पार्क"
+      },
+      "luxury": {
+       "en": "Rooftop dinner with bay views",
+       "kn": "ಕೊಲ್ಲಿಯ ನೋಟದೊಂದಿಗೆ ಮೇಲ್ಛಾವಣಿ ಊಟ",
+       "hi": "खाड़ी के नज़ारे के साथ रूफ़टॉप डिनर"
+      }
+     }
+    },
+    {
+     "stop": 1,
+     "priority": 1,
+     "title": {
+      "en": "Culture trail",
+      "kn": "ಸಾಂಸ್ಕೃತಿಕ ನಡಿಗೆ",
+      "hi": "सांस्कृतिक सैर"
+     },
+     "core": [
+      {
+       "en": "Chinatown and the Buddha Tooth Relic Temple",
+       "kn": "ಚೈನಾಟೌನ್ ಮತ್ತು ಬುದ್ಧ ಟೂತ್ ರೆಲಿಕ್ ದೇವಾಲಯ",
+       "hi": "चाइनाटाउन और बुद्ध टूथ रेलिक मंदिर"
+      },
+      {
+       "en": "Little India and Kampong Glam",
+       "kn": "ಲಿಟಲ್ ಇಂಡಿಯಾ ಮತ್ತು ಕಂಪೋಂಗ್ ಗ್ಲಾಮ್",
+       "hi": "लिटिल इंडिया और कम्पोंग ग्लाम"
+      }
+     ],
+     "options": {
+      "culture": {
+       "en": "National Museum of Singapore",
+       "kn": "ಸಿಂಗಾಪುರ ರಾಷ್ಟ್ರೀಯ ವಸ್ತುಸಂಗ್ರಹಾಲಯ",
+       "hi": "सिंगापुर राष्ट्रीय संग्रहालय"
+      }
+     }
+    },
+    {
+     "stop": 2,
+     "priority": 2,
+     "title": {
+      "en": "Sentosa island",
+      "kn": "ಸೆಂಟೋಸಾ ದ್ವೀಪ",
+      "hi": "सेंटोसा द्वीप"
+     },
+     "core": [
+      {
+       "en": "Sentosa beaches",
+       "kn": "ಸೆಂಟೋಸಾ ಕಡಲತೀರಗಳು",
+       "hi": "सेंटोसा के समुद्र तट"
+      },
+      {
+       "en": "Cable car ride",
+       "kn": "ಕೇಬಲ್ ಕಾರ್ ಸವಾರಿ",
+       "hi": "केबल कार की सवारी"
+      }
+     ],
+     "options": {
+      "family": {
+       "en": "Aquarium or theme park on Sentosa",
+       "kn": "ಸೆಂಟೋಸಾದಲ್ಲಿ ಅಕ್ವೇರಿಯಂ ಅಥವಾ ಥೀಮ್ ಪಾರ್ಕ್",
+       "hi": "सेंटोसा पर एक्वेरियम या थीम पार्क"
+      },
+      "adventure": {
+       "en": "Zipline and luge rides",
+       "kn": "ಜಿಪ್‌ಲೈನ್ ಮತ್ತು ಲೂಜ್ ಸವಾರಿ",
+       "hi": "ज़िपलाइन और ल्यूज राइड"
+      }
+     }
+    },
+    {
+     "stop": 3,
+     "priority": 3,
+     "title": {
+      "en": "Nature day",
+      "kn": "ಪ್ರಕೃತಿ ದಿನ",
+      "hi": "प्रकृति दिवस"
+     },
+     "core": [
+      {
+       "en": "Singapore Botanic Gardens",
+       "kn": "ಸಿಂಗಾಪುರ ಬೊಟಾನಿಕ್ ಗಾರ್ಡನ್ಸ್",
+       "hi": "सिंगापुर बॉटनिक गार्डन्स"
+      },
+      {
+       "en": "Night Safari at Mandai",
+       "kn": "ಮಂಡಾಯ್‌ನಲ್ಲಿ ನೈಟ್ ಸಫಾರಿ",
+       "hi": "मंडाई में नाइट सफ़ारी"
+      }
+     ],
+     "options": {
+      "family": {
+       "en": "Singapore Zoo",
+       "kn": "ಸಿಂಗಾಪುರ ಮೃಗಾಲಯ",
+       "hi": "सिंगापुर चिड़ियाघर"
+      },
+      "adventure": {
+       "en": "MacRitchie treetop walk",
+       "kn": "ಮ್ಯಾಕ್‌ರಿಚಿ ಟ್ರೀಟಾಪ್ ನಡಿಗೆ",
+       "hi": "मैकरिची ट्रीटॉप वॉक"
+      }
+     }
+    },
+    {
+     "stop": 1,
+     "priority": 2,
+     "title": {
+      "en": "Food and shopping",
+      "kn": "ಆಹಾರ ಮತ್ತು ಶಾಪಿಂಗ್",
+      "hi": "खाना और खरीदारी"
+     },
+     "core": [
+      {
+       "en": "Hawker centre food trail",
+       "kn": "ಹಾಕರ್ ಸೆಂಟರ್ ಆಹಾರ ಪ್ರವಾಸ",
+       "hi": "हॉकर सेंटर फ़ूड ट्रेल"
+      },
+      {
+       "en": "Orchard Road",
+       "kn": "ಆರ್ಚರ್ಡ್ ರೋಡ್",
+       "hi": "ऑर्चर्ड रोड"
+      }
+     ],
+     "options": {
+      "culture": {
+       "en": "Peranakan shophouses in Joo Chiat",
+       "kn": "ಜೂ ಚಿಯಾಟ್‌ನ ಪೆರನಕನ್ ಮನೆಗಳು",
+       "hi": "जू चियाट के पेरानाकन घर"
+      },
+      "luxury": {
+       "en": "Spa afternoon",
+       "kn": "ಸ್ಪಾ ಮಧ್ಯಾಹ್ನ",
+       "hi": "स्पा में दोपहर"
+      }
+     }
+    },
+    {
+     "stop": 4,
+     "priority": 1,
+     "title": {
+      "en": "Jewel Changi and depart",
+      "kn": "ಜ್ಯುವೆಲ್ ಚಾಂಗಿ ಮತ್ತು ನಿರ್ಗಮನ",
+      "hi": "ज्वेल चांगी और प्रस्थान"
+     },
+     "core": [
+      {
+       "en": "Indoor waterfall at Jewel Changi",
+       "kn": "ಜ್ಯುವೆಲ್ ಚಾಂಗಿಯ ಒಳಾಂಗಣ ಜಲಪಾತ",
+       "hi": "ज्वेल चांगी का इनडोर झरना"
+      },
+      {
+       "en": "Check in for your flight",
+       "kn": "ನಿಮ್ಮ ವಿಮಾನಕ್ಕೆ ಚೆಕ್-ಇನ್",
+       "hi": "अपनी उड़ान के लिए चेक-इन"
+      }
+     ],
+     "options": {}
+    }
+   ]
+  }
+ }
+}

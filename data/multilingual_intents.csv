@@ -1,0 +1,101 @@
+text,intent
+hi,greeting
+hello,greeting
+namaste,greeting
+vanakkam,greeting
+namaskaram,greeting
+hey,greeting
+hey there,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+book a flight,flight_search
+i want to book a flight,flight_search
+flight search,flight_search
+Chennai la irundhu Delhi ku flight venum,flight_search
+naan Bangalore to Mumbai poganum,flight_search
+Delhi ke liye flight chahiye,flight_search
+Bengaluru inda Mumbai ge flight beku,flight_search
+Hyderabad nundi Bangalore ki flight kavali,flight_search
+naku flight ticket kavali,flight_search
+flight ticket book karo,flight_search
+flight ticket book panna mudiyuma,flight_search
+flight ticket book madi,flight_search
+search flights from chennai to delhi,flight_search
+hotel in Goa,hotel_search
+Goa la hotel venum,hotel_search
+Delhi me hotel chahiye,hotel_search
+Goa dalli hotel room beku,hotel_search
+Goa lo hotel room kavali,hotel_search
+book a hotel room,hotel_search
+find a room in delhi,hotel_search
+visa for Dubai,visa_enquiry
+Dubai visa eppadi edukkuradhu,visa_enquiry
+Dubai ke liye visa ki jankari,visa_enquiry
+Dubai visa bagge heli,visa_enquiry
+Dubai visa kavali,visa_enquiry
+visa enquiry cheyali,visa_enquiry
+do i need a visa for Singapore,visa_enquiry
+insurance venum,insurance
+do you offer travel insurance,insurance
+add insurance to my booking,insurance
+insurance status,insurance
+trip protection details,insurance
+what does travel insurance cover,insurance
+what is the baggage allowance,baggage_info
+how many bags can i carry,baggage_info
+luggage rules cheppu,baggage_info
+baggage limit enna,baggage_info
+baggage allowance kitna hai,baggage_info
+baggage rules enu,baggage_info
+checked baggage limit,baggage_info
+how do i do web check in,web_checkin
+web checkin for my flight,web_checkin
+web checkin eppadi seivadhu,web_checkin
+web check-in kaise kare,web_checkin
+web checkin ege madodu,web_checkin
+checkin ela cheyali,web_checkin
+boarding pass online,web_checkin
+i want to change my flight,modify_booking
+can i reschedule my booking,modify_booking
+date change madi,modify_booking
+ticket details marchali,modify_booking
+reschedule kaise kare,modify_booking
+reschedule panna mudiyuma,modify_booking
+change my travel date,modify_booking
+cancel my flight,cancel_booking
+please cancel my hotel booking,cancel_booking
+flight ticket cancel madi,cancel_booking
+booking cancel cheyali,cancel_booking
+booking cancel karni hai,cancel_booking
+flight cancel pannanum,cancel_booking
+how do i cancel my reservation,cancel_booking
+refund status,refund_status
+i want a refund,refund_status
+refund status entha,refund_status
+refund kab tak milega,refund_status
+refund eppo varum,refund_status
+refund ege siguthe,refund_status
+check refund status,refund_status
+i want to talk to a human,human_handoff
+connect me to an agent,human_handoff
+human agent venum,human_handoff
+human support kavali,human_handoff
+agent se baat karwao,human_handoff
+agent kitta pesanum,human_handoff
+customer support ge connect madi,human_handoff
+talk to support team,human_handoff
+bye,goodbye
+goodbye,goodbye
+thanks see you,goodbye
+selavu,goodbye
+dhanyavadalu,goodbye
+alvida,goodbye
+romba nandri,goodbye
+dhanyavadagalu,goodbye
+safe travels,goodbye
+i don't understand,fallback
+what is this,fallback
+random text here,fallback
+something else entirely,fallback
+help me with nothing,fallback

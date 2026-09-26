@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!--
+  Aura · travel assistant (customer UI).
+  Two-pane desktop layout that collapses to one column on phones.
+  Text labels come from /api/i18n/<lang> so the selected reply language
+  also controls card and control labels.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aura · Travel Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Noto+Sans+Kannada:wght@400;600&family=Noto+Sans+Devanagari:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+    <div class="bg-glows" aria-hidden="true">
+        <span class="glow glow-1"></span><span class="glow glow-2"></span><span class="glow glow-3"></span>
+    </div>
+
+    <main class="app" role="main">
+        <aside class="sidebar">
+            <div class="brand">
+                <span class="brand-orb" aria-hidden="true"></span>
+                <div class="brand-text">
+                    <h1>Aura</h1>
+                    <p data-i18n="tagline">Your travel partner</p>
+                </div>
+            </div>
+
+            <nav class="quick-actions" aria-label="Quick actions">
+                <p class="qa-label" data-i18n="quick_actions">Quick actions</p>
+                <button class="chip" data-message="Book a flight" data-i18n="qa_flight">✈️ Book a flight</button>
+                <button class="chip" data-message="Find a hotel" data-i18n="qa_hotel">🏨 Find a hotel</button>
+                <button class="chip" data-message="Plan a trip" data-i18n="qa_plan">🗺️ Plan a trip</button>
+                <button class="chip" data-message="Visa requirements for an international trip" data-i18n="qa_visa">🛂 Visa (international)</button>
+                <button class="chip" data-message="Travel insurance" data-i18n="qa_insurance">🛡️ Travel insurance</button>
+                <button class="chip" data-message="Talk to a human" data-i18n="qa_human">👤 Talk to a human</button>
+            </nav>
+
+            <div class="sidebar-foot">
+                <label class="lang-picker">
+                    <span data-i18n="reply_language">Reply language</span>
+                    <select id="reply-lang-select" aria-label="Reply language">
+                        <option value="auto" data-i18n="auto">Auto (match my messages)</option>
+                        <option value="en">English</option>
+                        <option value="kn">ಕನ್ನಡ</option>
+                        <option value="hi">हिन्दी</option>
+                    </select>
+                </label>
+                <button id="new-chat-btn" class="ghost-btn" data-i18n="new_chat">New chat</button>
+            </div>
+        </aside>
+
+        <section class="chat-main">
+            <section class="hero" aria-hidden="true">
+                <div class="orb"><span class="orb-core"></span><span class="orb-ring"></span></div>
+                <h2 class="hero-title" data-i18n="hero_title">Hello, I'm Aura</h2>
+                <p class="hero-sub" data-i18n="hero_sub">Flights, hotels and trip plans. Just ask.</p>
+            </section>
+
+            <section id="chat-window" class="chat-window" aria-live="polite"></section>
+
+            <div id="transcript-hint" class="transcript-hint" hidden data-i18n="transcript_hint">Check the transcript, edit it if needed, then press send.</div>
+            <footer class="composer">
+                <button id="voice-reply-btn" class="voice-reply-btn" aria-pressed="false" aria-label="Read replies aloud" data-i18n-title="voice_reply">&#128266;</button>
+                <div class="composer-field">
+                    <input id="user-input" type="text" class="text-input" autocomplete="off" data-i18n-placeholder="placeholder" placeholder="Message Aura…" />
+                    <select id="voice-lang-select" class="voice-lang-select" aria-label="Speech recognition language" data-i18n-title="mic_language">
+                        <option value="en-IN">🎤 EN</option>
+                        <option value="kn-IN">🎤 ಕನ್ನಡ</option>
+                        <option value="hi-IN">🎤 हिन्दी</option>
+                        <option value="ta-IN">🎤 தமிழ்</option>
+                        <option value="te-IN">🎤 తెలుగు</option>
+                        <option value="ml-IN">🎤 മലയാളം</option>
+                    </select>
+                </div>
+                <button id="mic-btn" class="mic-btn" aria-label="Start voice input" data-i18n-title="mic_start">&#127908;</button>
+                <button id="send-btn" class="send-btn" aria-label="Send" data-i18n-title="send">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13" /><path d="M22 2 15 22l-4-9-9-4 20-7z" /></svg>
+                </button>
+            </footer>
+        </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

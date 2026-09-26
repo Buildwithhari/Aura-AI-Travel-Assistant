@@ -1,0 +1,24 @@
+{
+  "intent_cases": [
+    {"text": "hello aura", "expected": "greeting"},
+    {"text": "book a flight from Bengaluru to Delhi", "expected": "flight_search"},
+    {"text": "find a hotel in Goa", "expected": "hotel_search"},
+    {"text": "how much cabin baggage can I carry", "expected": "baggage_info"},
+    {"text": "help me check in online", "expected": "web_checkin"},
+    {"text": "I need travel insurance", "expected": "insurance"},
+    {"text": "change my travel date", "expected": "modify_booking"},
+    {"text": "cancel my flight ticket", "expected": "cancel_booking"},
+    {"text": "connect me to a human agent", "expected": "human_handoff"},
+    {"text": "bye and thank you", "expected": "goodbye"}
+  ],
+  "rag_cases": [
+    {"text": "Can I put a power bank in checked luggage?", "expected_id": "baggage-restricted"},
+    {"text": "How early should I reach the airport?", "expected_id": "airport-arrival"},
+    {"text": "What documents do I need for an international trip?", "expected_id": "visa-documents"},
+    {"text": "My ticket name is different from my passport", "expected_id": "name-match"},
+    {"text": "What is WCHR wheelchair assistance?", "expected_id": "wheelchair-assistance"},
+    {"text": "How do I track my pending refund?", "expected_id": "refund-status"},
+    {"text": "Does travel insurance cover lost baggage?", "expected_id": "travel-insurance"},
+    {"text": "When should the bot transfer me to an agent?", "expected_id": "human-support"}
+  ]
+}

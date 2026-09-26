@@ -1,0 +1,218 @@
+[
+  {
+    "id": "baggage-domestic",
+    "title": "Domestic baggage guidance",
+    "category": "baggage_info",
+    "keywords": [
+      "baggage",
+      "luggage",
+      "checked bag",
+      "cabin bag",
+      "weight"
+    ],
+    "content": "Domestic baggage allowance depends on the airline and fare family. A common economy allowance is 15 kg checked baggage plus 7 kg cabin baggage, but the traveller must verify the allowance shown on the ticket before departure.",
+    "source": "Aura Travel Knowledge Base — Baggage",
+    "content_kn": "ದೇಶೀಯ ಬ್ಯಾಗೇಜ್ ಮಿತಿ ಏರ್‌ಲೈನ್ ಮತ್ತು ದರದ ವರ್ಗವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ಎಕಾನಮಿಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ 15 kg ಚೆಕ್-ಇನ್ ಬ್ಯಾಗೇಜ್ ಮತ್ತು 7 kg ಕ್ಯಾಬಿನ್ ಬ್ಯಾಗೇಜ್ ಇರುತ್ತದೆ, ಆದರೆ ಪ್ರಯಾಣದ ಮೊದಲು ಟಿಕೆಟ್‌ನಲ್ಲಿರುವ ಮಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+    "content_hi": "घरेलू बैगेज सीमा एयरलाइन और किराए की श्रेणी पर निर्भर करती है। इकॉनमी में आमतौर पर 15 kg चेक-इन बैगेज और 7 kg केबिन बैगेज मिलता है, लेकिन यात्रा से पहले टिकट पर दी गई सीमा ज़रूर जाँचें।"
+  },
+  {
+    "id": "baggage-restricted",
+    "title": "Restricted cabin-baggage items",
+    "category": "baggage_info",
+    "keywords": [
+      "restricted",
+      "prohibited",
+      "power bank",
+      "battery",
+      "liquid",
+      "cabin"
+    ],
+    "content": "Power banks and spare lithium batteries should normally be carried in cabin baggage, not checked baggage. Liquids and restricted items are subject to airport and airline rules, so passengers should verify the latest rule for their route.",
+    "source": "Aura Travel Knowledge Base — Restricted Items",
+    "content_kn": "ಪವರ್ ಬ್ಯಾಂಕ್ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಲಿಥಿಯಂ ಬ್ಯಾಟರಿಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕ್ಯಾಬಿನ್ ಬ್ಯಾಗೇಜ್‌ನಲ್ಲಿ ಒಯ್ಯಬೇಕು, ಚೆಕ್-ಇನ್ ಬ್ಯಾಗೇಜ್‌ನಲ್ಲಿ ಅಲ್ಲ. ದ್ರವಗಳು ಮತ್ತು ನಿರ್ಬಂಧಿತ ವಸ್ತುಗಳಿಗೆ ವಿಮಾನ ನಿಲ್ದಾಣ ಮತ್ತು ಏರ್‌ಲೈನ್ ನಿಯಮಗಳು ಅನ್ವಯಿಸುತ್ತವೆ, ಆದ್ದರಿಂದ ನಿಮ್ಮ ಮಾರ್ಗದ ಇತ್ತೀಚಿನ ನಿಯಮವನ್ನು ಪರಿಶೀಲಿಸಿ.",
+    "content_hi": "पावर बैंक और अतिरिक्त लिथियम बैटरियाँ आमतौर पर केबिन बैगेज में रखनी चाहिए, चेक-इन बैगेज में नहीं। तरल पदार्थ और प्रतिबंधित वस्तुएँ हवाई अड्डे और एयरलाइन के नियमों के अधीन हैं, इसलिए अपने रूट का नवीनतम नियम जाँच लें।"
+  },
+  {
+    "id": "web-checkin",
+    "title": "Web check-in process",
+    "category": "web_checkin",
+    "keywords": [
+      "web check in",
+      "online check in",
+      "boarding pass",
+      "pnr"
+    ],
+    "content": "Web check-in usually requires the airline PNR or booking reference and the passenger surname. Opening and closing times vary by airline and route. After check-in, download the boarding pass or collect it at the airport if required.",
+    "source": "Aura Travel Knowledge Base — Check-in",
+    "content_kn": "ವೆಬ್ ಚೆಕ್-ಇನ್‌ಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಏರ್‌ಲೈನ್ PNR ಅಥವಾ ಬುಕಿಂಗ್ ಉಲ್ಲೇಖ ಮತ್ತು ಪ್ರಯಾಣಿಕರ ಉಪನಾಮ ಬೇಕು. ತೆರೆಯುವ ಮತ್ತು ಮುಚ್ಚುವ ಸಮಯ ಏರ್‌ಲೈನ್ ಮತ್ತು ಮಾರ್ಗದಿಂದ ಬದಲಾಗುತ್ತದೆ. ಚೆಕ್-ಇನ್ ನಂತರ ಬೋರ್ಡಿಂಗ್ ಪಾಸ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ ಅಗತ್ಯವಿದ್ದರೆ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಪಡೆಯಿರಿ.",
+    "content_hi": "वेब चेक-इन के लिए आमतौर पर एयरलाइन PNR या बुकिंग रेफ़रेंस और यात्री का उपनाम चाहिए। खुलने और बंद होने का समय एयरलाइन और रूट के अनुसार बदलता है। चेक-इन के बाद बोर्डिंग पास डाउनलोड करें या ज़रूरत हो तो हवाई अड्डे पर लें।"
+  },
+  {
+    "id": "airport-arrival",
+    "title": "Recommended airport arrival time",
+    "category": "travel_preparation",
+    "keywords": [
+      "airport early",
+      "arrival time",
+      "how early",
+      "reporting time"
+    ],
+    "content": "As general planning guidance, arrive about two hours before a domestic departure and about three hours before an international departure. Airport, airline and seasonal congestion may require additional time.",
+    "source": "Aura Travel Knowledge Base — Airport Preparation",
+    "content_kn": "ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನವಾಗಿ, ದೇಶೀಯ ವಿಮಾನಕ್ಕೆ ಸುಮಾರು ಎರಡು ಗಂಟೆ ಮೊದಲು ಮತ್ತು ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನಕ್ಕೆ ಸುಮಾರು ಮೂರು ಗಂಟೆ ಮೊದಲು ತಲುಪಿ. ವಿಮಾನ ನಿಲ್ದಾಣ, ಏರ್‌ಲೈನ್ ಅಥವಾ ಋತುಮಾನದ ದಟ್ಟಣೆಯಿಂದ ಇನ್ನೂ ಹೆಚ್ಚು ಸಮಯ ಬೇಕಾಗಬಹುದು.",
+    "content_hi": "सामान्य योजना के रूप में, घरेलू उड़ान से लगभग दो घंटे पहले और अंतरराष्ट्रीय उड़ान से लगभग तीन घंटे पहले पहुँचें। हवाई अड्डे, एयरलाइन या मौसमी भीड़ के कारण ज़्यादा समय लग सकता है।"
+  },
+  {
+    "id": "visa-documents",
+    "title": "International visa-document checklist",
+    "category": "visa_enquiry",
+    "keywords": [
+      "visa",
+      "passport",
+      "international documents",
+      "travel documents"
+    ],
+    "content": "International travel normally requires a passport valid for the destination's required period, the correct visa or entry authorization, confirmed itinerary, accommodation details and any destination-specific documents. Requirements depend on nationality and destination and must be verified with official authorities.",
+    "source": "Aura Travel Knowledge Base — Visa Checklist",
+    "content_kn": "ಅಂತರರಾಷ್ಟ್ರೀಯ ಪ್ರಯಾಣಕ್ಕೆ ಸಾಮಾನ್ಯವಾಗಿ ಗಮ್ಯಸ್ಥಾನ ಕೇಳುವ ಅವಧಿಗೆ ಮಾನ್ಯವಿರುವ ಪಾಸ್‌ಪೋರ್ಟ್, ಸರಿಯಾದ ವೀಸಾ ಅಥವಾ ಪ್ರವೇಶ ಅನುಮತಿ, ದೃಢಪಡಿಸಿದ ಪ್ರವಾಸ ವಿವರ, ವಸತಿ ವಿವರಗಳು ಮತ್ತು ಗಮ್ಯಸ್ಥಾನಕ್ಕೆ ಬೇಕಾದ ಇತರ ದಾಖಲೆಗಳು ಬೇಕು. ಅಗತ್ಯಗಳು ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಗಮ್ಯಸ್ಥಾನವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತವೆ; ಅಧಿಕೃತ ಪ್ರಾಧಿಕಾರಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಿ.",
+    "content_hi": "अंतरराष्ट्रीय यात्रा के लिए आमतौर पर गंतव्य द्वारा माँगी गई अवधि तक वैध पासपोर्ट, सही वीज़ा या प्रवेश अनुमति, पक्का यात्रा कार्यक्रम, ठहरने का विवरण और गंतव्य के अन्य ज़रूरी दस्तावेज़ चाहिए। ज़रूरतें राष्ट्रीयता और गंतव्य पर निर्भर करती हैं; आधिकारिक संस्थाओं से जाँच लें।"
+  },
+  {
+    "id": "name-match",
+    "title": "Passenger name must match identity document",
+    "category": "booking_support",
+    "keywords": [
+      "wrong name",
+      "name correction",
+      "passport name",
+      "ticket name"
+    ],
+    "content": "The passenger name on the booking should match the government identity document or passport used for travel. Name corrections are controlled by the airline and may require evidence, fees or ticket reissue.",
+    "source": "Aura Travel Knowledge Base — Passenger Details",
+    "content_kn": "ಬುಕಿಂಗ್‌ನಲ್ಲಿರುವ ಪ್ರಯಾಣಿಕರ ಹೆಸರು ಪ್ರಯಾಣಕ್ಕೆ ಬಳಸುವ ಸರ್ಕಾರಿ ಗುರುತಿನ ಚೀಟಿ ಅಥವಾ ಪಾಸ್‌ಪೋರ್ಟ್‌ನಲ್ಲಿರುವ ಹೆಸರಿಗೆ ಹೊಂದಿಕೆಯಾಗಬೇಕು. ಹೆಸರು ತಿದ್ದುಪಡಿ ಏರ್‌ಲೈನ್ ನಿಯಂತ್ರಣದಲ್ಲಿರುತ್ತದೆ ಮತ್ತು ಪುರಾವೆ, ಶುಲ್ಕ ಅಥವಾ ಟಿಕೆಟ್ ಮರುವಿತರಣೆ ಬೇಕಾಗಬಹುದು.",
+    "content_hi": "बुकिंग पर यात्री का नाम यात्रा में इस्तेमाल होने वाले सरकारी पहचान पत्र या पासपोर्ट से मेल खाना चाहिए। नाम सुधार एयरलाइन के नियंत्रण में है और इसके लिए प्रमाण, शुल्क या टिकट दोबारा जारी करना पड़ सकता है।"
+  },
+  {
+    "id": "modify-booking",
+    "title": "Flight rescheduling",
+    "category": "modify_booking",
+    "keywords": [
+      "change flight",
+      "reschedule",
+      "modify booking",
+      "new date"
+    ],
+    "content": "A flight change depends on fare rules, seat availability and airline policy. The traveller may need to pay a change fee plus any fare difference. No change should be confirmed until the revised price is shown and accepted.",
+    "source": "Aura Travel Knowledge Base — Booking Changes",
+    "content_kn": "ವಿಮಾನ ಬದಲಾವಣೆ ದರ ನಿಯಮಗಳು, ಸೀಟು ಲಭ್ಯತೆ ಮತ್ತು ಏರ್‌ಲೈನ್ ನೀತಿಯನ್ನು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ಬದಲಾವಣೆ ಶುಲ್ಕ ಮತ್ತು ದರದ ವ್ಯತ್ಯಾಸವನ್ನು ಪಾವತಿಸಬೇಕಾಗಬಹುದು. ಹೊಸ ಬೆಲೆ ತೋರಿಸಿ ಪ್ರಯಾಣಿಕರು ಒಪ್ಪುವವರೆಗೆ ಯಾವುದೇ ಬದಲಾವಣೆ ಅಂತಿಮವಲ್ಲ.",
+    "content_hi": "फ़्लाइट बदलना किराया नियमों, सीट उपलब्धता और एयरलाइन नीति पर निर्भर करता है। बदलाव शुल्क और किराए का अंतर देना पड़ सकता है। नई कीमत दिखाकर यात्री की स्वीकृति मिलने तक कोई बदलाव पक्का नहीं माना जाना चाहिए।"
+  },
+  {
+    "id": "cancel-booking",
+    "title": "Flight cancellation",
+    "category": "cancel_booking",
+    "keywords": [
+      "cancel",
+      "cancellation",
+      "cancel ticket",
+      "refund amount"
+    ],
+    "content": "Cancellation eligibility and deductions depend on the fare rules and airline policy. Before cancellation, retrieve the booking, calculate the estimated refund and obtain the traveller's confirmation.",
+    "source": "Aura Travel Knowledge Base — Cancellation",
+    "content_kn": "ರದ್ದತಿಯ ಅರ್ಹತೆ ಮತ್ತು ಕಡಿತಗಳು ದರ ನಿಯಮಗಳು ಮತ್ತು ಏರ್‌ಲೈನ್ ನೀತಿಯನ್ನು ಅವಲಂಬಿಸಿರುತ್ತವೆ. ರದ್ದು ಮಾಡುವ ಮೊದಲು ಬುಕಿಂಗ್ ಪರಿಶೀಲಿಸಿ, ಅಂದಾಜು ಮರುಪಾವತಿ ಲೆಕ್ಕ ಹಾಕಿ ಮತ್ತು ಪ್ರಯಾಣಿಕರ ಒಪ್ಪಿಗೆ ಪಡೆಯಿರಿ.",
+    "content_hi": "कैंसिलेशन की पात्रता और कटौती किराया नियमों और एयरलाइन नीति पर निर्भर करती है। कैंसिल करने से पहले बुकिंग देखें, अनुमानित रिफ़ंड निकालें और यात्री की सहमति लें।"
+  },
+  {
+    "id": "refund-status",
+    "title": "Refund tracking",
+    "category": "refund_status",
+    "keywords": [
+      "refund",
+      "refund pending",
+      "money back",
+      "refund status"
+    ],
+    "content": "Refund processing begins after the airline or supplier approves the request. Processing time varies by payment method and supplier. Track the request using the booking reference and refund or cancellation reference.",
+    "source": "Aura Travel Knowledge Base — Refunds",
+    "content_kn": "ಏರ್‌ಲೈನ್ ಅಥವಾ ಸರಬರಾಜುದಾರರು ವಿನಂತಿಯನ್ನು ಅನುಮೋದಿಸಿದ ನಂತರ ಮರುಪಾವತಿ ಪ್ರಕ್ರಿಯೆ ಆರಂಭವಾಗುತ್ತದೆ. ಸಮಯ ಪಾವತಿ ವಿಧಾನ ಮತ್ತು ಸರಬರಾಜುದಾರರನ್ನು ಅವಲಂಬಿಸಿ ಬದಲಾಗುತ್ತದೆ. ಬುಕಿಂಗ್ ಉಲ್ಲೇಖ ಮತ್ತು ಮರುಪಾವತಿ ಅಥವಾ ರದ್ದತಿ ಉಲ್ಲೇಖದಿಂದ ವಿನಂತಿಯನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ.",
+    "content_hi": "एयरलाइन या सप्लायर के अनुरोध मंज़ूर करने के बाद रिफ़ंड प्रक्रिया शुरू होती है। समय भुगतान के तरीके और सप्लायर के अनुसार अलग होता है। बुकिंग रेफ़रेंस और रिफ़ंड या कैंसिलेशन रेफ़रेंस से अनुरोध ट्रैक करें।"
+  },
+  {
+    "id": "travel-insurance",
+    "title": "Travel insurance coverage",
+    "category": "insurance",
+    "keywords": [
+      "insurance",
+      "medical cover",
+      "trip cancellation",
+      "lost baggage"
+    ],
+    "content": "Travel insurance may cover emergency medical expenses, trip cancellation or interruption, delays and baggage loss, depending on the policy. Exclusions, limits and pre-existing-condition rules must be reviewed before purchase.",
+    "source": "Aura Travel Knowledge Base — Insurance",
+    "content_kn": "ಪಾಲಿಸಿಯನ್ನು ಅವಲಂಬಿಸಿ, ಪ್ರಯಾಣ ವಿಮೆ ತುರ್ತು ವೈದ್ಯಕೀಯ ವೆಚ್ಚ, ಪ್ರವಾಸ ರದ್ದತಿ ಅಥವಾ ಅಡಚಣೆ, ವಿಳಂಬ ಮತ್ತು ಬ್ಯಾಗೇಜ್ ನಷ್ಟವನ್ನು ಒಳಗೊಳ್ಳಬಹುದು. ಖರೀದಿಸುವ ಮೊದಲು ಹೊರತುಪಡಿಸುವಿಕೆಗಳು, ಮಿತಿಗಳು ಮತ್ತು ಮೊದಲೇ ಇರುವ ಕಾಯಿಲೆಗಳ ನಿಯಮಗಳನ್ನು ಓದಿ.",
+    "content_hi": "पॉलिसी के अनुसार, यात्रा बीमा आपातकालीन चिकित्सा खर्च, यात्रा रद्द होने या रुकने, देरी और बैगेज खोने को कवर कर सकता है। खरीदने से पहले अपवाद, सीमाएँ और पहले से मौजूद बीमारियों के नियम पढ़ लें।"
+  },
+  {
+    "id": "infant-travel",
+    "title": "Travelling with infants",
+    "category": "special_assistance",
+    "keywords": [
+      "infant",
+      "baby",
+      "bassinet",
+      "child travel"
+    ],
+    "content": "Infant age limits, documentation, baggage and bassinet availability vary by airline. Add the infant to the booking correctly and request a bassinet or other assistance early because availability is limited.",
+    "source": "Aura Travel Knowledge Base — Infant Travel",
+    "content_kn": "ಶಿಶುವಿನ ವಯಸ್ಸಿನ ಮಿತಿ, ದಾಖಲೆಗಳು, ಬ್ಯಾಗೇಜ್ ಮತ್ತು ಬ್ಯಾಸಿನೆಟ್ ಲಭ್ಯತೆ ಏರ್‌ಲೈನ್‌ನಿಂದ ಏರ್‌ಲೈನ್‌ಗೆ ಬದಲಾಗುತ್ತದೆ. ಶಿಶುವನ್ನು ಬುಕಿಂಗ್‌ಗೆ ಸರಿಯಾಗಿ ಸೇರಿಸಿ; ಲಭ್ಯತೆ ಸೀಮಿತವಾಗಿರುವುದರಿಂದ ಬ್ಯಾಸಿನೆಟ್ ಅಥವಾ ಇತರ ಸಹಾಯವನ್ನು ಬೇಗನೆ ಕೇಳಿ.",
+    "content_hi": "शिशु की आयु सीमा, दस्तावेज़, बैगेज और बैसिनेट की उपलब्धता एयरलाइन के अनुसार अलग होती है। शिशु को बुकिंग में सही तरह जोड़ें और बैसिनेट या अन्य सहायता जल्दी माँगें, क्योंकि उपलब्धता सीमित होती है।"
+  },
+  {
+    "id": "wheelchair-assistance",
+    "title": "Wheelchair and mobility assistance",
+    "category": "special_assistance",
+    "keywords": [
+      "wheelchair",
+      "mobility",
+      "special assistance",
+      "wchr",
+      "wchs",
+      "wchc"
+    ],
+    "content": "Wheelchair assistance should be requested before travel with the required service level. WCHR generally covers ramp assistance, WCHS includes stairs assistance and WCHC covers passengers who need assistance to the cabin seat. The airline must confirm the request.",
+    "source": "Aura Travel Knowledge Base — Special Assistance",
+    "content_kn": "ಗಾಲಿಕುರ್ಚಿ ಸಹಾಯವನ್ನು ಬೇಕಾದ ಸೇವಾ ಮಟ್ಟದೊಂದಿಗೆ ಪ್ರಯಾಣದ ಮೊದಲೇ ಕೇಳಬೇಕು. WCHR ಸಾಮಾನ್ಯವಾಗಿ ರಾಂಪ್ ಸಹಾಯ, WCHS ಮೆಟ್ಟಿಲು ಸಹಾಯ, ಮತ್ತು WCHC ಕ್ಯಾಬಿನ್ ಸೀಟಿನವರೆಗೆ ಸಹಾಯ ಬೇಕಾದ ಪ್ರಯಾಣಿಕರಿಗೆ. ಏರ್‌ಲೈನ್ ವಿನಂತಿಯನ್ನು ದೃಢಪಡಿಸಬೇಕು.",
+    "content_hi": "व्हीलचेयर सहायता ज़रूरी सेवा स्तर के साथ यात्रा से पहले माँगनी चाहिए। WCHR में आमतौर पर रैंप सहायता, WCHS में सीढ़ियों की सहायता, और WCHC उन यात्रियों के लिए है जिन्हें केबिन सीट तक सहायता चाहिए। एयरलाइन को अनुरोध की पुष्टि करनी होती है।"
+  },
+  {
+    "id": "meal-request",
+    "title": "Special meal requests",
+    "category": "special_assistance",
+    "keywords": [
+      "meal",
+      "vegetarian meal",
+      "special meal",
+      "food request"
+    ],
+    "content": "Special meals are available only on eligible flights and should be requested before the airline's cutoff time. A request is not guaranteed until the airline confirms the SSR.",
+    "source": "Aura Travel Knowledge Base — Special Meals",
+    "content_kn": "ವಿಶೇಷ ಊಟ ಅರ್ಹ ವಿಮಾನಗಳಲ್ಲಿ ಮಾತ್ರ ಲಭ್ಯ ಮತ್ತು ಏರ್‌ಲೈನ್‌ನ ಗಡುವಿನ ಮೊದಲು ಕೇಳಬೇಕು. ಏರ್‌ಲೈನ್ SSR ದೃಢಪಡಿಸುವವರೆಗೆ ವಿನಂತಿ ಖಚಿತವಲ್ಲ.",
+    "content_hi": "विशेष भोजन केवल योग्य उड़ानों पर मिलता है और एयरलाइन की समय-सीमा से पहले माँगना होता है। एयरलाइन के SSR की पुष्टि करने तक अनुरोध पक्का नहीं है।"
+  },
+  {
+    "id": "human-support",
+    "title": "When to transfer to a human agent",
+    "category": "human_handoff",
+    "keywords": [
+      "human",
+      "agent",
+      "payment deducted",
+      "urgent",
+      "complaint"
+    ],
+    "content": "Transfer to a human agent for payment disputes, ticketing failures, complex changes, emergencies, complaints or any request where the automated system cannot safely verify the required action.",
+    "source": "Aura Travel Knowledge Base — Escalation",
+    "content_kn": "ಪಾವತಿ ವಿವಾದ, ಟಿಕೆಟಿಂಗ್ ವೈಫಲ್ಯ, ಸಂಕೀರ್ಣ ಬದಲಾವಣೆ, ತುರ್ತು ಪರಿಸ್ಥಿತಿ, ದೂರುಗಳು ಅಥವಾ ಸ್ವಯಂಚಾಲಿತ ವ್ಯವಸ್ಥೆ ಸುರಕ್ಷಿತವಾಗಿ ಪರಿಶೀಲಿಸಲಾಗದ ಯಾವುದೇ ವಿನಂತಿಗೆ ಮಾನವ ಏಜೆಂಟ್‌ಗೆ ವರ್ಗಾಯಿಸಲಾಗುತ್ತದೆ.",
+    "content_hi": "भुगतान विवाद, टिकटिंग विफलता, जटिल बदलाव, आपातकाल, शिकायत या ऐसे किसी भी अनुरोध के लिए जिसे स्वचालित सिस्टम सुरक्षित रूप से जाँच न सके, मानव एजेंट को ट्रांसफ़र किया जाता है।"
+  }
+]

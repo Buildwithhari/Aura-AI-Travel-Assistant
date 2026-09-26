@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aura · Analytics & Evaluation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='admin.css') }}" />
+</head>
+<body>
+    <header class="topbar">
+        <div>
+            <p class="eyebrow">TESSERAFLUX INTELLIGENCE</p>
+            <h1>Aura Analytics</h1>
+            <p>Operational metrics, RAG quality and model evaluation</p>
+        </div>
+        <div class="actions">
+            <span id="live-status" class="live"><i></i> Live</span>
+            <a class="button secondary" href="/api/admin/export.csv">Export CSV</a>
+            <button id="evaluate-btn" class="button">Run Evaluation</button>
+            <a class="button ghost" href="/">Back to Aura</a>
+        </div>
+    </header>
+
+    <main>
+        <section id="summary" class="summary-grid" aria-label="Summary metrics"></section>
+
+        <section class="dashboard-grid">
+            <article class="panel">
+                <div class="panel-head"><div><p class="eyebrow">DISTRIBUTION</p><h2>Intent Mix</h2></div></div>
+                <div id="intent-chart" class="bar-chart"></div>
+            </article>
+            <article class="panel">
+                <div class="panel-head"><div><p class="eyebrow">ROUTING</p><h2>Response Sources</h2></div></div>
+                <div id="source-chart" class="bar-chart"></div>
+            </article>
+            <article class="panel languages-panel">
+                <div class="panel-head"><div><p class="eyebrow">AUDIENCE</p><h2>Languages</h2></div></div>
+                <div id="language-chart" class="bar-chart"></div>
+            </article>
+        </section>
+
+        <section id="evaluation-panel" class="panel evaluation hidden">
+            <div class="panel-head">
+                <div><p class="eyebrow">QUALITY GATE</p><h2>Offline Evaluation</h2></div>
+                <span id="evaluation-time" class="muted"></span>
+            </div>
+            <div id="evaluation-summary" class="evaluation-cards"></div>
+            <div id="evaluation-details"></div>
+        </section>
+
+        <section class="panel">
+            <div class="panel-head">
+                <div><p class="eyebrow">AUDIT TRAIL</p><h2>Recent Interactions</h2></div>
+                <button id="refresh-btn" class="text-button">Refresh</button>
+            </div>
+            <div class="table-wrap">
+                <table>
+                    <thead><tr><th>Time</th><th>Message</th><th>Intent</th><th>Path</th><th>Confidence</th><th>Latency</th><th>RAG</th><th>Feedback</th></tr></thead>
+                    <tbody id="recent-body"></tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+    <script src="{{ url_for('static', filename='admin.js') }}"></script>
+</body>
+</html>
